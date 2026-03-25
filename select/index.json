@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "base_track": "ミュージック",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-03-25T22:45:49.118770Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パワー・トゥ・ザ・ミュージック",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/01_パワー・トゥ・ザ・ミュージック_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マスト・ビー・ザ・ミュージック",
+      "artist": "The Summer Set",
+      "has_synced": false,
+      "path": "select/02_マスト・ビー・ザ・ミュージック_The_Summer_Set.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サウンド・オブ・ミュージック",
+      "artist": "OKAMOTO'S",
+      "has_synced": false,
+      "path": "select/03_サウンド・オブ・ミュージック_OKAMOTO'S.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ミュージック",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/04_ミュージック_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ミュージック・アワー",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/05_ミュージック・アワー_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ミュージック・アワー",
+      "artist": "PornoGraffitti",
+      "has_synced": true,
+      "path": "select/06_ミュージック・アワー_PornoGraffitti.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ミュージック",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/07_ミュージック_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ミュージック (Cornelius Remix)",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/08_ミュージック_(Cornelius_Remix)_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ミュージック(Cornelius Remix)",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/09_ミュージック(Cornelius_Remix)_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Music [ミュージック]",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/10_Music_[ミュージック]_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Music [ミュージック]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/11_Music_[ミュージック]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Music of the Earth (ミュージック・オブ・ジ・アース)",
+      "artist": "Patrice Rushen (パトリース・ラッシェン)",
+      "has_synced": true,
+      "path": "select/12_Music_of_the_Earth_(ミュージック・オブ・ジ・アース)_Patrice_Rushen_(パトリース・ラッシェン).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ドント・レット・ザ・ミュージック・ダイ",
+      "artist": "インナ",
+      "has_synced": true,
+      "path": "select/13_ドント・レット・ザ・ミュージック・ダイ_インナ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ミュージック∞ファクトリー feat.鏡音リン",
+      "artist": "cosMo@暴走P",
+      "has_synced": false,
+      "path": "select/14_ミュージック∞ファクトリー_feat.鏡音リン_cosMo@暴走P.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ミュージック∞ファクトリー",
+      "artist": "cosMo＠暴走P feat. 鏡音リン",
+      "has_synced": false,
+      "path": "select/15_ミュージック∞ファクトリー_cosMo@暴走P_feat._鏡音リン.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ミュージック・アワー",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/16_ミュージック・アワー_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ミュージック・フリーク",
+      "artist": "GLIM SPANKY",
+      "has_synced": true,
+      "path": "select/17_ミュージック・フリーク_GLIM_SPANKY.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ミュージック・アワー",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/18_ミュージック・アワー_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "ミュージック",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/19_ミュージック_sakanaction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミュージック",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_ミュージック_サカナクション.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ミュージック",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/localdb_01_ミュージック_サカナクション.lrc",
+      "repo_name": "Hz-VBzYHA0k"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "ミュージック",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/localdb_02_ミュージック_サカナクション.lrc",
+      "repo_name": "iVstp5Ozw2o"
+    }
+  ]
+}
